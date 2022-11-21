@@ -1,3 +1,1 @@
-<!-- ![](images\CrudAngular.gif) -->
-
- <img src="(images\CrudAngular.gif">
+![](images\CrudAngular.gif);
