@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 7,
+      "name": "WidgetForm",
+      "price": "11111111"
+    },
+    {
+      "id": 10,
+      "name": "Teste",
+      "price": "15.15"
+    },
+    {
+      "id": 11,
+      "name": "Teste02",
+      "price": "5.000"
+    }
+  ]
+}
