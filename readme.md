@@ -1,1 +1,1 @@
-![alt text](images\Crud em angular.gif)
+![](images\CrudAngular.gif)
