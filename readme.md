@@ -1,1 +1,1 @@
-![](images\CrudAngular.gif);
+![](images\CrudAngular.gif)
