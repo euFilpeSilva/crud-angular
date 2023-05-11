@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "id": 7,
-      "name": "WidgetFormddddddddddd",
-      "price": "11111111"
+      "id": 15,
+      "name": "dddddd",
+      "price": "dddd"
     },
     {
-      "id": 10,
-      "name": "Testedddddddddddd",
-      "price": "15.15"
-    },
-    {
-      "id": 11,
-      "name": "ignite app - Filipe Silva",
-      "price": "2.000"
+      "id": 16,
+      "name": "gggg",
+      "price": "252"
     }
   ]
 }
