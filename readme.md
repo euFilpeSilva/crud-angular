@@ -12,7 +12,7 @@ Antes de executar este projeto, é necessário ter o Node.js instalado na máqui
 
 1 - Clone este repositório em sua máquina usando o comando:
   
-  git clone https://github.com/seu-usuario/nome-do-projeto.git
+  git clone https://github.com/euFilpeSilva/Crud_Angular.git
 
 2 - Acesse a pasta do projeto:
   
